@@ -2,8 +2,8 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "build": "next build",
-    "deploy": "next build && touch out/.nojekyll && git add out/ && git commit -m \"Deploy\" && git subtree push --prefix out origin gh-pages",
+    "build": "next build && cp -R ./out ./docs",
+    "deploy": "yarn build && git add . && git commit -m 'Deploy to gh-pages' && git push origin HEAD:gh-pages",
     "start": "next start",
     "type-check": "tsc"
   },
