@@ -2,7 +2,7 @@
 
 const nextConfig = {
   output: 'export',
-  basePath: '/fecrash/organizers',
+  basePath: '/qr',
   reactStrictMode: true,
   compiler: {
     emotion: true,
