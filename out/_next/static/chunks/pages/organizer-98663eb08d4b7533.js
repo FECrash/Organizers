@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[168],{4112:function(n,e,r){(window.__NEXT_P=window.__NEXT_P||[]).push(["/organizer",function(){return r(789)}])},789:function(n,e,r){"use strict";r.r(e);var u=r(5944);let i=()=>(0,u.tZ)("div",{children:"Pager의 Organizer 페이지입니다."});e.default=i}},function(n){n.O(0,[774,888,179],function(){return n(n.s=4112)}),_N_E=n.O()}]);
