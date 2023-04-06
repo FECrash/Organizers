@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a0b89297-cc91-46c8-834b-4069423109c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/parang.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/parang.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/userList.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/userList.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,8 @@
       <updated>1680588355526</updated>
       <workItem from="1680588357108" duration="6113000" />
       <workItem from="1680594522630" duration="189000" />
-      <workItem from="1680594725420" duration="2307000" />
+      <workItem from="1680594725420" duration="2656000" />
+      <workItem from="1680754311808" duration="1717000" />
     </task>
     <servers />
   </component>

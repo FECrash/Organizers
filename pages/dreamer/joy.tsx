@@ -1,5 +1,5 @@
-import withStaticApi from '../utils/withStaticApi';
-import OrganizerDetail from '../templates/organizer/OrganizerDetail';
+import OrganizerDetail from '../../templates/organizer/OrganizerDetail';
+import withStaticApi from '../../utils/withStaticApi';
 import type { OrganizerIdPageProps } from 'pages/organizer';
 
 const OrganizerIdPage = (props: OrganizerIdPageProps) => {
@@ -9,5 +9,5 @@ const OrganizerIdPage = (props: OrganizerIdPageProps) => {
 export default OrganizerIdPage;
 
 export const getStaticProps = withStaticApi(async () => ({ props: {} }), {
-  useGithubApi: { nickName: '파랑' },
+  useGithubApi: { nickName: '조이' },
 });
