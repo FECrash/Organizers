@@ -1,5 +1,5 @@
-import withStaticApi from '../utils/withStaticApi';
-import OrganizerDetail from '../templates/organizer/OrganizerDetail';
+import withStaticApi from '../../utils/withStaticApi';
+import OrganizerDetail from '../../templates/organizer/OrganizerDetail';
 import type { OrganizerIdPageProps } from 'pages/organizer';
 
 const OrganizerIdPage = (props: OrganizerIdPageProps) => {

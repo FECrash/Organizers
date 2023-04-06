@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b89297-cc91-46c8-834b-4069423109c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/parang.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/parang.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/userList.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/userList.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/dreamer/joy.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/dreamer/joy.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/parang.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/dreamer/parang.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/dreamer" />
       <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
@@ -60,7 +60,8 @@
       <workItem from="1680588357108" duration="6113000" />
       <workItem from="1680594522630" duration="189000" />
       <workItem from="1680594725420" duration="2656000" />
-      <workItem from="1680754311808" duration="1717000" />
+      <workItem from="1680754311808" duration="1771000" />
+      <workItem from="1680756299406" duration="131000" />
     </task>
     <servers />
   </component>
