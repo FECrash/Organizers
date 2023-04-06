@@ -3,7 +3,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/Organizers',
-  assetPrefix: "/Organizers",
+  assetPrefix: '/Organizers',
   reactStrictMode: true,
   compiler: {
     emotion: true,
