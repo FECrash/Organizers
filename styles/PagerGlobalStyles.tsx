@@ -108,10 +108,10 @@ const PagerGlobalStyles = () => (
       body {
         line-height: 1;
       }
-      ol,
+      /* ol,
       ul {
         list-style: none;
-      }
+      } */
       blockquote,
       q {
         quotes: none;
@@ -126,6 +126,10 @@ const PagerGlobalStyles = () => (
       table {
         border-collapse: collapse;
         border-spacing: 0;
+      }
+      button {
+        outline: none;
+        border: none;
       }
     `}
   />
