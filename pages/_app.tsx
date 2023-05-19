@@ -8,6 +8,7 @@ const cache = createCache({ key: 'next' });
 const App = ({ Component, pageProps }: AppProps) => (
   <CacheProvider value={cache}>
     <PagerGlobalStyles />
+    <div id="modal-portal" />
     <Component {...pageProps} />
   </CacheProvider>
 );
