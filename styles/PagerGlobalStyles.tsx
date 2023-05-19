@@ -1,4 +1,5 @@
 import { css, Global } from '@emotion/react';
+import { Pretendard } from './font';
 
 const PagerGlobalStyles = () => (
   <Global
@@ -106,6 +107,7 @@ const PagerGlobalStyles = () => (
         display: block;
       }
       body {
+        font-family: ${Pretendard.style.fontFamily};
         line-height: 1;
       }
       /* ol,

@@ -119,7 +119,7 @@ const Container = styled.div`
   }
   h3 {
     color: #0a2533;
-    margin: 2px 0 12px 0;
+    margin: 3px 0 12px 0;
     font-size: 15px;
   }
 `;
@@ -151,7 +151,6 @@ const BlueText = styled.b`
   color: #2a99d3;
   margin-left: 2px;
   font-weight: 900;
-  font-size: 20px;
 `;
 const Button = styled.button`
   color: #2a99d3;

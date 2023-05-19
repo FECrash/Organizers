@@ -1,18 +1,13 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-  output: 'standalone',
+  output: 'export',
   basePath: '/Organizers',
   assetPrefix: '/Organizers',
   reactStrictMode: true,
   compiler: {
     emotion: true,
     reactRemoveProperties: true
-  },
-  images: {
-     unoptimized: true,
-    loader: 'akamai',
-    path: '/',
   },
   webpack: (config) => {
     config.module.rules.push({
